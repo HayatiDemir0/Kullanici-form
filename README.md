@@ -17,7 +17,7 @@ Kullanıcılar formu doldurduğunda:
 | HTML5      | ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) | Sayfa yapısı, form elemanları |
 | CSS3       | ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg) | Tasarım, layout ve stil |
 | JavaScript | ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) | Form doğrulama ve veri gönderme |
-| MockAPI    | ![MockAPI](https://mockapi.io/_nuxt/img/logo.2be1db7.svg) | API endpoint simülasyonu |
+| MockAPI    | Kullanıldı :)| API endpoint simülasyonu |
 
 ---
 
