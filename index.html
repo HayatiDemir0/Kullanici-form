@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kayıt Ol</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="title">Kayıt</div>
+        <div class="content">
+            <form id="registerForm">
+                <div class="user-details">
+                    <div class="input-box">
+                        <span class="details">Adınız:</span>
+                        <input type="text" id="ad" placeholder="Adınızı Giriniz" required>
+                    </div>
+                    <div class="input-box">
+                        <span class="details">Soyadınız:</span>
+                        <input type="text" id="soyad" placeholder="Soyadınızı Giriniz" required>
+                    </div>
+                    <div class="input-box">
+                        <span class="details">Email:</span>
+                        <input type="email" id="email" placeholder="Email Adresinizi Giriniz" required>
+                    </div>
+                    <div class="input-box">
+                        <span class="details">Telefon:</span>
+                        <input type="text" id="telefon" placeholder="Telefon Numarası Giriniz" required>
+                    </div>
+                    <div class="input-box">
+                        <span class="details">Şifre:</span>
+                        <input type="password" id="sifre" placeholder="Şifre Giriniz" required>
+                    </div>
+                    <div class="input-box">
+                        <span class="details">Şifre Doğrulama:</span>
+                        <input type="password" id="sifre2" placeholder="Şifrenizi Doğulayın" required>
+                    </div>
+                </div>
+
+                <div class="gonder-details">
+                    <input type="radio" name="gonder" id="dot-1" value="Erkek">
+                    <input type="radio" name="gonder" id="dot-2" value="Kız">
+                    <input type="radio" name="gonder" id="dot-3" value="Gizli">
+                    <span class="gonder-title">Cinsiyet</span>
+
+                    <div class="category">
+                        <label for="dot-1">
+                            <span class="dot one"></span>
+                            <span class="gonder">Erkek</span>
+                        </label>
+                        <label for="dot-2">
+                            <span class="dot two"></span>
+                            <span class="gonder">Kız</span>
+                        </label>
+                        <label for="dot-3">
+                            <span class="dot three"></span>
+                            <span class="gonder">Gizli</span>
+                        </label>
+                    </div>
+                </div>
+
+                <div class="button">
+                    <input type="button" id="kayitBtn" value="Kayıt Ol">
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+
+</html>
