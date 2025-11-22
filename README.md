@@ -12,12 +12,12 @@ Kullanıcılar formu doldurduğunda:
 
 ## 🛠 Kullanılan Teknolojiler
 
-| Teknoloji | Logo | Kullanım Alanı |
-|-----------|------|----------------|
-| HTML5 | ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) | Sayfa yapısı, form elemanları |
-| CSS3 | ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg) | Tasarım, layout ve stil |
+| Teknoloji   | Logo | Kullanım Alanı |
+|------------|------|----------------|
+| HTML5      | ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) | Sayfa yapısı, form elemanları |
+| CSS3       | ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg) | Tasarım, layout ve stil |
 | JavaScript | ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) | Form doğrulama ve veri gönderme |
-| MockAPI | ![API](https://upload.wikimedia.org/wikipedia/commons/1/17/JSON_Logo.png) | API endpoint simülasyonu |
+| MockAPI    | ![MockAPI](https://mockapi.io/_nuxt/img/logo.2be1db7.svg) | API endpoint simülasyonu |
 
 ---
 
@@ -27,7 +27,6 @@ Kullanıcılar formu doldurduğunda:
 - 🔹 Şifre doğrulama ve uyarı mesajları  
 - 🔹 Fetch API ile MockAPI’ye veri gönderme  
 - 🔹 Modern tasarım ve kullanıcı dostu form  
-- 🔹 Responsive değilse kolayca eklenebilir
 
 ---
 
@@ -36,4 +35,4 @@ Kullanıcılar formu doldurduğunda:
 1. Repo’yu klonlayın:
 
 ```bash
-git clone https://github.com/HayatiDemirr/Kullanici-form.git
+git clone https://github.com/HayatiDemir0/Kullanici-form.git
